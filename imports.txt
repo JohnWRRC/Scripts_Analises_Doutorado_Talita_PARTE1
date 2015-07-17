@@ -1,0 +1,3 @@
+cd "C:\_data\Talita\Entradas_grass"
+r.in.gdal in=buffer_Final_semdesolque.img out=buffer_Final_semdesolque_img
+r.in.gdal in=classificada_2014_24022015_utm_final_rast.img out=classificada_2014_24022015_utm_final_rast_img
